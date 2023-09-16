@@ -95,7 +95,7 @@ For more in-depth information and examples, please refer to our [detailed docume
 
 ## Contributing
 
-We welcome contributions from the community. If you have any improvements or new actions in mind, please open an issue or submit a pull request on our [GitHub repository](https://github.com/your-repo-link).
+We welcome contributions from the community. If you have any improvements or new actions in mind, please open an issue or submit a pull request on our [GitHub repository](https://github.com/HoseaCodes/ReusableWorkflow).
 
 ## License
 
@@ -103,6 +103,6 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact us at [support@reusable-workflows.com](mailto:support@reusable-workflows.com).
+If you have any questions or need assistance, feel free to contact us at [support@reusable-workflows.com](mailto:info@ambitiousconcept.com).
 
 Happy coding and automating your workflows!
